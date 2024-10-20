@@ -1,0 +1,1 @@
+SELECT * FROM home_practice1.customerorders;
